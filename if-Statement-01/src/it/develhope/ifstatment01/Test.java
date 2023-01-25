@@ -10,8 +10,5 @@ public class Test {
         System.out.println("number of letters is even");
     }
 
-
-
-
 }
 }
